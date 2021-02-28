@@ -1,0 +1,4 @@
+
+class Controler_permission{
+	
+}

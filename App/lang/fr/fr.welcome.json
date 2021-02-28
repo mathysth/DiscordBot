@@ -1,0 +1,7 @@
+{
+  "welcome": [
+    "Bienvenue à toi %user%",
+    "%user% est arrivé dans la place",
+    "Attention %user% à débarqué n'hésitez pas à lui passer le bonjour"
+  ]
+}

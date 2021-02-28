@@ -1,0 +1,20 @@
+{
+  "rpc_title": "Pierre feuille ciseaux",
+  "rpc_weapon_rock": "pierre",
+  "rpc_weapon_paper": "Feuille",
+  "rpc_weapon_scissor": "Ciseau",
+  "rpc_chooseWeapon" : "Choisissez votre arme ",
+  "rpc_userChooseWeapon" : "à choisi %weapon%",
+  "rpc_asBeaten" : "et à battu %user%",
+  "rpc_whoAsChoose" : "qui avait choisi %weapon%",
+  "rpc_tied": "Pas de gagnant vous avez tous choisi %weapon%",
+  "rpc_playWithBot": "Vous avez décidé de jouer contre notre robot bonne chance :cowboy:",
+  "rpc_playerJoin":[
+    "Un joueur est renté dans la partie son nom : %user%",
+    "Faite place à %user% qui rentre dans la partie",
+    "%user% tente l'arène des héros"
+  ],
+  "rpc_askPlayerNumber" : "Veuillez enter le nombre de joueurs",
+  "rpc_playerNumberError" : "Veuillez rentrer un nombre de joueurs valide",
+  "rpc_responseTimeAsExpire": "Votre temps de réponse à expiré nous allons donc chosir pour vous :stuck_out_tongue:"
+}
